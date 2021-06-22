@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    
     <meta charset="UTF-8">
 <script>
     var tabuada = 8;
@@ -19,8 +13,3 @@
     document.write(tabuada + " vezes 9 é " + tabuada * 9 + "<br>");
     document.write(tabuada + " vezes 10 é " + tabuada * 10 + "<br>");
 </script>
-</head>
-<body>
-    
-</body>
-</html>
